@@ -6,4 +6,4 @@
 
 Thanks for checking out this front-end coding challenge.
 
-I used HTML and CSS, I learn a lot 
+I used HTML and CSS
